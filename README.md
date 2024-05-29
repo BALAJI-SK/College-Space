@@ -58,21 +58,8 @@ The application includes email and password validations to ensure users enter co
 <img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.026.jpeg" alt="Validations" width="300" >
 <img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.027.jpeg" alt="Validations" width="300" >
 
-# Databases Screenshots
-
-## 1) Followers:
-<img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.028.jpeg" alt="Followers" width="300">
-
-## 2) Posts likes:
-<img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.029.jpeg" alt="Posts likes" width="300">
-
-## 3) Post Comments:
-<img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.030.jpeg" alt="Post Comments" width="300">
-
-## 4) Chatroom Messages:
-<img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.031.jpeg" alt="Chatroom Messages" width="300">
-
 ---
+
 
 # FUTURE SCOPE OF WORK
 
