@@ -15,39 +15,39 @@
 
 ## A) SPLASH SCREEN
 The splash screen is the welcome screen that appears when the application is launched. It provides a visually appealing entry point and sets the tone for the user experience.
-<br\>
+<br>
 <img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.016.jpeg" alt="Splash Screen" width="300" >
 
 ## B) SIGNUP
-On the signup page, users can create a new account by uploading their profile picture, providing an email ID, and setting a password. The page includes email and password validation to ensure data integrity.<br\>
+On the signup page, users can create a new account by uploading their profile picture, providing an email ID, and setting a password. The page includes email and password validation to ensure data integrity.<br>
 <img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.017.jpeg" alt="Signup" width="300" >
 
 ## C) SIGN IN
 The sign-in page allows existing users to log in to their accounts by entering their email ID and password. It also includes validation to ensure correct login credentials.
-<br\>
+<br>
 <img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.011.jpeg" alt="Sign In" width="300" >
 
 ## D) CHATBOX
 The chatbox feature enables group conversations within the app. Users can join chat rooms using a room ID and communicate with others in real time.
-<br\>
+<br>
 <img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.020.jpeg" alt="Chatbox" width="300" >
 <img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.021.jpeg" alt="Chatbox" width="300" >
 
 ## E) FEED
 The feed displays content uploaded by users, including posts that can be liked, commented on, and awarded with stickers. This interactive feature enhances user engagement.
-<br\>
+<br>
 <img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.018.jpeg" alt="Feed" width="300" >
 <img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.019.jpeg" alt="Feed" width="300" >
 
 ## F) CREATE POST
 Users can create new posts by providing a description and uploading content. These posts will appear on both the feed and the user's profile page.
-<br\>
+<br>
 <img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.014.jpeg" alt="Create Post" width="300" >
 <img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.024.jpeg" alt="Upload Post" width="300" >
 
 ## G) PROFILE
 The profile page allows users to view their profile information, including followers and following lists. It also provides a logout option.
-<br\>
+<br>
 <img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.015.jpeg" alt="Profile" width="300" >
 <img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.022.jpeg" alt="Profile" width="300" >
 <img src="images/Aspose.Words.ba02d40e-c67e-4a3a-ae1a-3a5407510ec8.023.jpeg" alt="Profile" width="300" >
